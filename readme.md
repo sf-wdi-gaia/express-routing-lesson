@@ -101,7 +101,7 @@ And add this code:
     <div class="container">
       <p> This is a paragraph of text. Yay! </p>
     </div>
-  </body
+  </body>
 ```
 
 
