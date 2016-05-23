@@ -37,7 +37,7 @@ Express.js is a simple web framework for Node.js. It provides many features for 
 
 Express comes with a default templating engine called [jade](http://jade-lang.com), a high performance template engine heavily influenced by [HAML](http://haml.info).  Like HAML, jade simplifies writing html by eliminating the need for parts of html tags and utilizing white space.  
 
-But this is a bit different than what we've been using with ERB; explore jade/haml on your own, but we'll be using another common templating engine called [EJS](http://www.embeddedjs.com/) (Embedded JavaScript).
+You may explore jade and haml on your own, but we'll be using another common templating engine called [EJS](http://www.embeddedjs.com/) (Embedded JavaScript) because when we get to Sinatra and Rails, we will use something called Embedded Ruby or ERB, which is very similar.
 
 Instead of sending some text when we hit our site let's have it serve an index page.
 
