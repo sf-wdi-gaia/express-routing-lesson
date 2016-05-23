@@ -97,7 +97,7 @@ And add this code:
   </head>
 
   <body>
-    <h1>Express and Jade</h1>
+    <h1>Express and EJS</h1>
     <div class="container">
       <p> This is a paragraph of text. Yay! </p>
     </div>
