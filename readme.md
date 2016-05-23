@@ -51,7 +51,7 @@ You can uninstall from a project with:
 npm uninstall ejs --save
 ```
 
-#### Setting up ejs and render the index
+#### Setting up ejs to render the index
 
 To change your rendering engine you'll need to edit your apps configuration in `app.js`. We also have to change what happens when a user GETs '/'. Let's get it to render our index template instead of sending 'Hello World'.
 
